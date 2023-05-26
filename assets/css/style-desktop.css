@@ -5,7 +5,7 @@
 
 body{
 background-size: 100%;
-font-size: 0.8em;
+font-size: 1.6em;
 width: 100%;
 height: 100%;
 color: #393d41;
@@ -51,13 +51,13 @@ width: auto;
 height: auto;
 padding: 10% 20%;
 box-sizing: border-box;
-font-size: 0.8em;
+
 
 }
 
 
 h1 {
-font-size: 1.3rem;
+font-size: 2em;
 font-weight: bold;
 color:#25a2c3;
 text-align:center;
@@ -68,14 +68,14 @@ line-height: 1.2;
 }
 
 h2 {
-font-size: 1.2rem;
-font-weight: bold;
+
+
 color:#25a2c3;
 text-align:center;
 margin-bottom: 20px;
 margin-top: 30px;
 font-family: 'Montserrat', sans-serif;
-line-height: 1.2;
+
 display: inline-block;
 }
 
@@ -88,7 +88,7 @@ text-decoration: none;
 font-size: 0.8em;
 font-weight:bold;
 color: #fff;
-padding: 10px 20px;
+padding: 15px 25px;
 background: #f04c2f;
 margin-top: 30px;
 border-radius: 5px;
@@ -99,18 +99,18 @@ display: block;
 background-color: #fff;
 text-align: center;
 width: auto;
-height: 200px;
+height: 600px;
 
-font-size: 0.5em;
+font-size: 1.6em;
 
 }
 
 
 .notebook { 
 float:left;
-margin-right: 30px;
-margin-left: 70px;
-width: 160px; 
+margin-left:20%;
+width: 450px; 
+padding: 0 , 40px , 40px , 40px;
 height: 100%; 
 border-radius: 50%;
 
@@ -118,30 +118,26 @@ border-radius: 50%;
 
 }
 
-#img-text {
-    margin-left: 20%;
-    margin-right: 20%;
-    
-}
 
 #right-text {
 text-align: left;
-font-size: 0.5em;
-margin-top: 20px;
+font-size: 0.6em;
+margin-top: 140px;
 margin-bottom: 20px;
-
+margin-left: 50%;
+padding-top: 20px;
 }
 
 
 
 .right-title {
-    font-size: 0.5em;
-    font-weight: bold;
-    color:#25a2c3;
-    text-align:left;
-    font-family: 'Montserrat', sans-serif;
-    line-height: 0.8;
-    margin: 10px;
+   
+color:#25a2c3;
+text-align:left;
+font-family: 'Montserrat', sans-serif;
+margin-top: 10px;
+margin-left: 0;
+margin-bottom: 10px;
 
 }
 
@@ -152,100 +148,92 @@ background-color: #e22d0e;
 color:white;
 text-align: center;
 width: auto;
-height: 170px;
-padding: 10px;
+height: 350px;
+padding-top:3%;
+padding-bottom: auto;
 line-height: 1.5;
 }
 
 #white-title {
-    color:white;
-    font-weight: bold;
-    font-size: 1.6em;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-family: 'Montserrat', sans-serif;
+color:white;
+font-weight: bold;
+margin-top: 30px;
+margin-bottom: 30px;
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5em;
 }
 
 #ceo{
-    font-size: 0.3em;
+font-size: 0.7em;
 
 }
 #corsivo {
-    font-style: italic;
+font-style: italic;
 }
 
 
 #fourth-section{
 
 background-color: white;
-text-align: center;
-width: 700px;
-height: 300px;
+
+width: auto;
+height: 800px;
 margin-bottom: 20px;
 display: inline-block;
+text-align: center;
 }
 
 
 
 .imgs {
     
-    width: 28%; 
-    height: auto; 
-    
-    }
-    
-    #foto1 {
-        margin: 0;
-        padding: 0;
-    
-    }
+width: 100%;
+height: auto; 
     
     
+}
     
-    .under-image {
-    margin: 0 ;
-    display: inline-block;
-    max-width: 28%;
+   
     
-    }
+.under-title {
+       width:500px;
+}
     
-    .borded {
+.under-image {
+margin: 0 ;
+display: inline-block;
+width: 562px;
     
-    width:28%;
-    display: inline-block;
-    border-left: #dee1e3 solid 2px;
-    border-bottom: #dee1e3 solid 2px;
-    border-right: #dee1e3 solid 2px;
-    border-top: #dee1e3 solid 2px;
-    margin:2%;
-    border-radius: 6px;
-    padding-bottom:30px;
+}
+    
+.borded {
+    
+width:28%;
+height: auto;
+display: inline-block;
+border-left: #dee1e3 solid 2px;
+border-bottom: #dee1e3 solid 2px;
+border-right: #dee1e3 solid 2px;
+border-top: #dee1e3 solid 2px;
+margin-top: 30px;
+margin-left: 40px ;
+margin-right: 40px;
+border-radius: 6px;
+padding-bottom:30px;
     
     
-    }
+}
     
     
     
     
-    .paragrafi {
-        width: 28%;
-    display: inline-block;
-    }
+.paragrafi {
+height: auto;
+width:500px;
+text-align: center;
+        
+}
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 footer{
@@ -257,7 +245,7 @@ height: auto;
 padding: 20px;
 padding-bottom: 60px;
 margin-top: 20px;
-font-size: 0.9em;
+
 } 
 
 a { color: #dee1e3; }
@@ -267,8 +255,8 @@ a:visited { color: #065b7c; }
    
 
 #hr{
-    width: 50%;
-    margin:auto
+width: 30%;
+margin:auto
 }
 
 .icons{
