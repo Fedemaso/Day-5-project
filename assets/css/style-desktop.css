@@ -26,8 +26,6 @@ align-items: left;
 padding-top: 8px;
 padding-left: 20px;
 padding-bottom: 8px;
-
-
 }
     
 #header{
@@ -36,7 +34,6 @@ width: auto;
 margin: 0;
 text-align: left;
 height: 35px;
-
 }
 
 
@@ -51,8 +48,6 @@ width: auto;
 height: auto;
 padding: 10% 20%;
 box-sizing: border-box;
-
-
 }
 
 
@@ -68,14 +63,11 @@ line-height: 1.2;
 }
 
 h2 {
-
-
 color:#25a2c3;
 text-align:center;
 margin-bottom: 20px;
 margin-top: 30px;
 font-family: 'Montserrat', sans-serif;
-
 display: inline-block;
 }
 
@@ -100,9 +92,7 @@ background-color: #fff;
 text-align: center;
 width: auto;
 height: 600px;
-
 font-size: 1.6em;
-
 }
 
 
@@ -113,9 +103,6 @@ width: 450px;
 padding: 0 , 40px , 40px , 40px;
 height: 100%; 
 border-radius: 50%;
-
-
-
 }
 
 
@@ -138,9 +125,7 @@ font-family: 'Montserrat', sans-serif;
 margin-top: 10px;
 margin-left: 0;
 margin-bottom: 10px;
-
 }
-
 
 
 #third-section {
@@ -165,17 +150,15 @@ font-size: 1.5em;
 
 #ceo{
 font-size: 0.7em;
-
 }
+
 #corsivo {
 font-style: italic;
 }
 
 
 #fourth-section{
-
 background-color: white;
-
 width: auto;
 height: 800px;
 margin-bottom: 20px;
@@ -184,30 +167,23 @@ text-align: center;
 }
 
 
-
 .imgs {
-    
 width: 100%;
-height: auto; 
-    
-    
+height: auto;   
 }
-    
-   
+      
     
 .under-title {
-       width:500px;
+width:500px;
 }
     
 .under-image {
 margin: 0 ;
 display: inline-block;
 width: 562px;
-    
 }
     
 .borded {
-    
 width:28%;
 height: auto;
 display: inline-block;
@@ -220,21 +196,15 @@ margin-left: 40px ;
 margin-right: 40px;
 border-radius: 6px;
 padding-bottom:30px;
-    
-    
 }
-    
-    
     
     
 .paragrafi {
 height: auto;
 width:500px;
-text-align: center;
-        
+text-align: center;     
 }
     
-
 
 footer{
 background-color: #25a2c3;
@@ -245,14 +215,12 @@ height: auto;
 padding: 20px;
 padding-bottom: 60px;
 margin-top: 20px;
-
 } 
 
 a { color: #dee1e3; }
 a:active { color: #1225cf; }
 a:visited { color: #065b7c; }
 
-   
 
 #hr{
 width: 30%;
